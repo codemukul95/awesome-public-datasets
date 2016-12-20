@@ -301,7 +301,7 @@ Image Processing
 * `Adience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_
 * `The Action Similarity Labeling (ASLAN) Challenge <http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html>`_
 * `Violent-Flows - Crowd Violence \ Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_
-
+* `Street View House Numbers (SVHN) <http://ufldl.stanford.edu/housenumbers/>`_
 Machine Learning
 ----------------
 
